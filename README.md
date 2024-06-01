@@ -1,4 +1,4 @@
-# Data-Driven-Sustainable-Agriculture-Project;-
+# Data-Driven-Sustainable-Agriculture-Project ;-
 Sustainable agriculture is farming in sustainable ways meeting society's present food and textile needs, without compromising the ability for current or future generations to meet their needs.
 
 Data Driven Research Project:- 'Tomato Leaf Disease Detection using Customized Transfer Learning Architectures and LSTM'
@@ -14,5 +14,6 @@ https://data.mendeley.com/datasets/ngdgg79rzb/1
 https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources
 
 https://github.com/SagarGuttal/Tomato-Leaf-Diseases-Detection-
+
 
 https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
