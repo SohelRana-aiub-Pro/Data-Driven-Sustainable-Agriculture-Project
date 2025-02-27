@@ -14,6 +14,6 @@ https://data.mendeley.com/datasets/ngdgg79rzb/1
 https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources
 
 https://github.com/SagarGuttal/Tomato-Leaf-Diseases-Detection-
-
+-----------------------------------------------------------------------
 
 https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
