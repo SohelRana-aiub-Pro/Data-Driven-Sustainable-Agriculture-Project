@@ -17,5 +17,3 @@ https://github.com/SagarGuttal/Tomato-Leaf-Diseases-Detection-
 
 
 https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
-
-Example Codes & Prototypes;
